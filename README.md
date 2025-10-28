@@ -62,7 +62,7 @@
 ### 快速安装（推荐）
 ```bash
 # 克隆仓库
-git clone https://github.com/Patrick-321/data_sync_mcp.git
+git clone https://github.com/Mengzuqing/data_sync_mcp.git
 cd data_sync_mcp
 
 # 一键部署数据同步版本
